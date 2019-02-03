@@ -1,0 +1,487 @@
+List type: Sorted
+List size: 4000
+Data type: Integer
+Algorithim: Heap Sort
+Array num comparisons: 53141
+LL num comparisons: 0
+
+List type: Random
+List size: 2000
+Data type: String
+Algorithim: Insertion Sort
+Array num comparisons: 1047170
+LL num comparisons: 953830
+
+List type: Random
+List size: 10
+Data type: Integer
+Algorithim: Quick Sort
+Array num comparisons: 27
+LL num comparisons: 25
+
+List type: Reversed
+List size: 100
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 17
+LL num comparisons: 17
+Value to search: zen
+Value found: true
+
+List type: Reversed
+List size: 100
+Data type: String
+Algorithim: Binary Search
+Array num comparisons: 5
+LL num comparisons: 101
+Value to search: zen
+Value found: true
+Extra operations - Array: 665
+Extra operations - LL: 415
+
+List type: Reversed
+List size: 100
+Data type: String
+Algorithim: Hash Search
+Array num comparisons: 1
+LL num comparisons: 0
+Value to search: zen
+Value found: true
+Extra operations - Array: 100
+Extra operations - LL: 0
+
+List type: Reversed
+List size: 100
+Data type: String
+Algorithim: Bubble Sort
+Array num comparisons: 4950
+LL num comparisons: 4950
+
+List type: Random
+List size: 6000
+Data type: String
+Algorithim: Bubble Sort
+Array num comparisons: 17996504
+LL num comparisons: 17989497
+
+List type: Sorted
+List size: 7000
+Data type: Integer
+Algorithim: Quick Sort
+Array num comparisons: 24503499
+LL num comparisons: 24496500
+
+List type: Random
+List size: 7000
+Data type: Integer
+Algorithim: Quick Sort
+Array num comparisons: 106419
+LL num comparisons: 102587
+
+List type: Random
+List size: 4170
+Data type: Integer
+Algorithim: Heap Sort
+Array num comparisons: 52667
+LL num comparisons: N/A
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Hash Search
+Array num comparisons: 2
+LL num comparisons: N/A
+Value to search: hello
+Value found: true
+Extra operations - Array: 4170
+Extra operations - LL: N/A
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Binary Search
+Array num comparisons: 12
+LL num comparisons: 4174
+Value to search: hello
+Value found: true
+Extra operations - Array: 52604
+Extra operations - LL: 49083
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 2420
+LL num comparisons: 2420
+Value to search: hello
+Value found: true
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Merge Sort
+Array num comparisons: 50188
+LL num comparisons: 49083
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Quick Sort
+Array num comparisons: 62994
+LL num comparisons: 59948
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Heap Sort
+Array num comparisons: 52604
+LL num comparisons: N/A
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Insertion Sort
+Array num comparisons: 4556186
+LL num comparisons: 4140345
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Bubble Sort
+Array num comparisons: 8692040
+LL num comparisons: 8690474
+
+List type: Random
+List size: 4170
+Data type: String
+Algorithim: Binary Search
+Array num comparisons: 12
+LL num comparisons: 4176
+Value to search: ongoing
+Value found: true
+Extra operations - Array: 52604
+Extra operations - LL: 49083
+
+List type: Near Sorted
+List size: 4170
+Data type: Integer
+Algorithim: Binary Search
+Array num comparisons: 11
+LL num comparisons: 4169
+Value to search: 5
+Value found: true
+Extra operations - Array: 51352
+Extra operations - LL: 42545
+
+List type: Near Sorted
+List size: 4170
+Data type: Integer
+Algorithim: Linear Search
+Array num comparisons: 6
+LL num comparisons: 6
+Value to search: 5
+Value found: true
+
+List type: Duplicates
+List size: 900
+Data type: String
+Algorithim: Heap Sort
+Array num comparisons: 5497
+LL num comparisons: 0
+
+List type: Duplicates
+List size: 900
+Data type: String
+Algorithim: Bubble Sort
+Array num comparisons: 291500
+LL num comparisons: 404550
+
+List type: Duplicates
+List size: 900
+Data type: String
+Algorithim: Insertion Sort
+Array num comparisons: 94082
+LL num comparisons: 109011
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Bubble Sort
+Array num comparisons: 49993919
+LL num comparisons: 49976085
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Insertion Sort
+Array num comparisons: 25104828
+LL num comparisons: 24900161
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Merge Sort
+Array num comparisons: 133616
+LL num comparisons: 130476
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Quick Sort
+Array num comparisons: 162417
+LL num comparisons: 153036
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Heap Sort
+Array num comparisons: 139160
+LL num comparisons: 0
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 370
+LL num comparisons: 370
+Value to search: love
+Value found: true
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 10000
+LL num comparisons: 10000
+Value to search: loas
+Value found: false
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 9997
+LL num comparisons: 9997
+Value to search: arbor
+Value found: true
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 10000
+LL num comparisons: 10000
+Value to search: poison
+Value found: true
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 10000
+LL num comparisons: 10000
+Value to search: loas
+Value found: false
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 9986
+LL num comparisons: 9986
+Value to search: laos
+Value found: true
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 4764
+LL num comparisons: 4764
+Value to search: config
+Value found: true
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Linear Search
+Array num comparisons: 370
+LL num comparisons: 370
+Value to search: love
+Value found: true
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Binary Search
+Array num comparisons: 12
+LL num comparisons: 10001
+Value to search: love
+Value found: true
+Extra operations - Array: 139160
+Extra operations - LL: 130476
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Hash Search
+Array num comparisons: 1
+LL num comparisons: 0
+Value to search: love
+Value found: true
+Extra operations - Array: 10000
+Extra operations - LL: 0
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Hash Search
+Array num comparisons: 17
+LL num comparisons: 0
+Value to search: asylum
+Value found: true
+Extra operations - Array: 10000
+Extra operations - LL: 0
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Hash Search
+Array num comparisons: 12
+LL num comparisons: 0
+Value to search: robbie
+Value found: true
+Extra operations - Array: 10000
+Extra operations - LL: 0
+
+List type: Random
+List size: 10000
+Data type: String
+Algorithim: Hash Search
+Array num comparisons: 1
+LL num comparisons: 0
+Value to search: interest
+Value found: true
+Extra operations - Array: 10000
+Extra operations - LL: 0
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Hash Search
+Array num comparisons: 2
+LL num comparisons: 0
+Value to search: 23
+Value found: true
+Extra operations - Array: 10000
+Extra operations - LL: 0
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Binary Search
+Array num comparisons: 10
+LL num comparisons: 9992
+Value to search: 992
+Value found: true
+Extra operations - Array: 139413
+Extra operations - LL: 130370
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Hash Search
+Array num comparisons: 2
+LL num comparisons: 0
+Value to search: 992
+Value found: true
+Extra operations - Array: 10000
+Extra operations - LL: 0
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Linear Search
+Array num comparisons: 820
+LL num comparisons: 820
+Value to search: 992
+Value found: true
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Bubble Sort
+Array num comparisons: 49992074
+LL num comparisons: 49995000
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Insertion Sort
+Array num comparisons: 24712479
+LL num comparisons: 25282491
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Bubble Sort
+Array num comparisons: 49992074
+LL num comparisons: 49995000
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Insertion Sort
+Array num comparisons: 24712479
+LL num comparisons: 25282491
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Merge Sort
+Array num comparisons: 133616
+LL num comparisons: 130370
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Quick Sort
+Array num comparisons: 155807
+LL num comparisons: 153201
+
+List type: Random
+List size: 10000
+Data type: Integer
+Algorithim: Heap Sort
+Array num comparisons: 139413
+LL num comparisons: 0
+
+List type: Sorted
+List size: 10000
+Data type: Integer
+Algorithim: Quick Sort
+Array num comparisons: 50004999
+LL num comparisons: 49995000
+
+List type: Random
+List size: 2100
+Data type: String
+Algorithim: Insertion Sort
+Array num comparisons: 1155048
+LL num comparisons: 1051002
+
+List type: Sorted
+List size: 860
+Data type: Integer
+Algorithim: Merge Sort
+Array num comparisons: 8436
+LL num comparisons: 5243
+
+List type: Sorted
+List size: 860
+Data type: Integer
+Algorithim: Linear Search
+Array num comparisons: 848
+LL num comparisons: 848
+Value to search: 847
+Value found: true
